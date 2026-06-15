@@ -1,0 +1,15 @@
+Es muy importante que las plataformas tecnológicas reciban 
+reportes de forma estructurada porque así la información se puede 
+procesar automáticamente. Cuando los datos llegan en formato JSON, 
+el sistema puede validarlos y almacenarlos sin necesidad de 
+intervención manual. Esto acelera la respuesta ante problemas como
+ baches, fugas de agua o alumbrado público defectuoso. Además, la
+  estructura estandarizada evita ambigüedades y errores humanos al
+   interpretar los reportes. Las autoridades pueden priorizar incidentes
+    según su tipo y ubicación. También facilita generar estadísticas 
+    y mapas de calor de problemas recurrentes. Sin una estructura 
+    clara, la información se perdería en correos desordenados.
+     Una plataforma bien diseñada fomenta la participación ciudadana, 
+     ya que los usuarios confían en que sus reportes serán atendidos. 
+     Por eso, aprender Express y JSON me permite construir herramientas
+      útiles para mi comunidad.

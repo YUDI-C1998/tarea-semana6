@@ -1,0 +1,4 @@
+{
+  "tipo": "Alumbrado público",
+  "descripcion": "La lámpara de la esquina de la calle 10 con carrera 5 no funciona desde hace 3 semanas. La cuadra está completamente oscura por las noches."
+}
